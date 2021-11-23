@@ -18,9 +18,13 @@ function fun() {
     confirm("I'm a confirm box!");
 }
 
-function func() {
+function promp() {
     var person = prompt("Please enter your name");
     if (person != null) {
         document.getElementById("demo").innerHTML = "Hello " + person;
     }
+}
+
+function tekan() {
+    alert("The form was submitted.")
 }
