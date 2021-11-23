@@ -15,7 +15,7 @@ function funct() {
 }
 
 function fun() {
-    confirm("I;m a confirm box!");
+    confirm("I'm a confirm box!");
 }
 
 function func() {
